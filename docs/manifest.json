@@ -1,6 +1,6 @@
 {
-    "title": "Beautiful docs",
-    "github": "maximebf/beautiful-docs",
+    "title": "Appboy Documentation",
+    "github": "CrockCity/beautiful-docs",
     "rootDir": "..",
     "files": ["README.md"],
     "links": [
